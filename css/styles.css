@@ -1,0 +1,32 @@
+.navigation {
+	background-color: #008080;
+}
+
+.menu {
+	display: inline;
+}
+
+.logo {
+	margin-left: 20px;
+	font-family: 'Slabo 27px', serif;
+}
+
+.container-europa {
+	width: 40px;
+}
+
+.image {
+	height: 50px;
+	margin-left: 60px;
+	border-radius: 10px;
+	width: 85px;
+	margin-top: 8px;
+}
+
+.text {
+	font-family: 'Oswald', sans-serif;
+}
+
+footer.page-footer {
+    background-color: #008080;
+}
