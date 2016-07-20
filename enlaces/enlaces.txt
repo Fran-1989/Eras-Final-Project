@@ -1,0 +1,38 @@
+http://jscompress.com/ --> Comprimir archivos JS
+
+https://www.npmjs.com/package/xlsx-to-json --> Convertir archivos XLSX en JSON.
+
+http://www.sassmeister.com/ --> Editor Web para practicar con SASS.
+
+https://gist.github.com/Fran-1989 --> Enlace para GitHubGist
+
+https://www.youtube.com/watch?v=IaXCgi6vf_4&index=28&list=PLEtcGQaT56cgHfdvGguisToK90z321pRl --> Sistema para puntuar imágenes
+
+Usar LocalStorageModule --> Módulo para guardar cosas en el Local Storage del navegador.
+
+Mirar directivas ng-Animate y ng-Touch.
+
+JSONLint --> Para validar y chequear JSON.
+
+https://google-developers.appspot.com/maps/documentation/utils/geocoder/#q%3D --> Para geolocalizar lugares.
+
+https://www.youtube.com/watch?v=kCH6xh6oVSs&index=36&list=PLhSj3UTs2_yWwhmEyzXsTFnNXfatVMAfT --> Atajos para Sublime.
+
+https://www.youtube.com/watch?v=lTeS8Xv3ymA&index=10&list=PLhSj3UTs2_yWwhmEyzXsTFnNXfatVMAfT --> Efectos partículas en movimiento.
+
+https://www.youtube.com/watch?v=lTeS8Xv3ymA&index=10&list=PLhSj3UTs2_yWwhmEyzXsTFnNXfatVMAfT --> Tutorial SASS.
+
+https://www.youtube.com/watch?v=dQ_CwXmpK_M --> Tutorial Local Storage.
+
+http://www.desarrolloweb.com/articulos/curso-git.html --> Tutorial Git.
+
+HTTP: The Definitive Guide --> Buscar libro para leerlo y tener la información sobre HTTP.
+
+https://www.youtube.com/watch?v=Sw-DXOGe4MU&index=26&list=PLjARR1053fYms_VU3QDN99bE8DueY7M1I --> Validar formularios en JS.
+
+https://www.youtube.com/watch?v=kPRMWSsM2nA --> Google Maps with Angular JS
+
+https://www.youtube.com/watch?v=9Zfwq_yPWDQ --> Idém al anterior.
+
+http://jquery-manual.blogspot.com.es/2015/01/tutorial-javascript-parte-33-google.html --> Manual JS.
+

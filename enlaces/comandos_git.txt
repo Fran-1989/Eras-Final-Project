@@ -1,0 +1,43 @@
+1. git init --> Inicia un repositorio local.
+
+2. git status --> Analiza el estado de los ficheros en el repositorio.
+
+3. git add + nombrefichero.extension --> Añade un achivo/fichero al staging index.
+
+4. git add. --> Añade todos los ficheros y directorios al Staging Area.
+
+5. git commit -m " "--> Realiza un commit con un comentario de descripción.
+
+6. (master) es la rama que se crea por defecto al realizar el primer commit.
+
+	Solo puedo tener una rama activa, es decir, no puedo estar trabajando en 2 ramas simultáneamente.
+
+7. git log --> Analiza el estado de los commits.
+
+8. git branch --> Lista las ramas actualmente disponibles (el * indica la rama en la que estamos).
+
+9. Si introduzco cambios en mis ficheros y hago git status, me marca los ficheros como modificados. Tendría que hacer git add y luego git commit de nuevo.
+
+10. git log --oneline --> Muestra el estado de los commits de forma resumida.
+
+11. git checkout -- nombrefichero.extension --> Me permite descartar un cambio realizado en el fichero en el caso de haberme equivocado.
+
+12. git reset HEAD nombrefichero.extension --> Para pasar un fichero del Staging Area al Working Directory.
+
+13. git reset --hard + CódigoCommit --> Elimina el commit realizado con el código especificado y todos los cambios (también existe --mix y --soft).
+
+14. git reset --mixed + CódigoCommitAnterior (al que quiero volver). Vuelvo al commit anterior especificado, pero no pierdo los ficheros sino que se quedan en el Staging Area.
+
+15. git commit --amend agrego los cambios realizados a un commit ya existente sin necesidad de crear otro nuevo. Machaco el commit anterior (pero solo hay uno).
+
+16. git show +idCommit --> Muestra los cambios realizados en ese único commit.
+
+17. Cualquier máquina individual es un repositorio Git.
+
+18. Repositorio remoto --> Puede ser otra máquina o GitHub (hosting de repositorios Git).
+
+19. git clone + UrlRepositorioGitHub --> Clonar un repositorio en un nuevo directorio en mi máquina.
+
+20. git remote -v --> Me hace un listado de los repositorios remotos que tengo creados.
+
+21. git push + NombreRepositorio + NombreRama --> Subo a mi repositorio remoto los cambios que acabo de hacer.

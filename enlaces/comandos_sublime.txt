@@ -1,0 +1,31 @@
+Ctrl + n --> Abre una nueva pestaña en Sublime.
+
+Ctrl + o --> Permite explorar para abrir un fichero.
+
+Ctrl + w --> Cerrar pestañas de una en una.
+
+Ctrl + Tab --> Para navegar entre pestañas.
+
+Ctrl + Shift + n --> Abrir en una nueva ventana.
+
+Shift + Alt + Números --> Divide la pantalla en tantas partes como números.
+
+Ctrl + K --> Saca la sidebar.
+
+Ctrl + B --> Cierra la sidebar.
+
+Ctrl + D --> Para seleccionar varias palabras iguales que quiero cambiar (p.ej).
+
+Esc --> Para salir del modo multicursor.
+
+Ctrl + shift + G --> Parra encerrar código entre las etiquetas que yo quiera.
+
+Ctrl + Shift + Flechas --> Para subir o bajar un contenido completo por la página (p.ej : etiquetas con su contenido).
+
+Ctrl + Shift + ] --> Indenta el contenido a la derecha. 
+
+Ctrl + Shift + [ --> Indenta el contenido a la izquierda. 
+
+Shift + Flechas --> Para seleccionar contenido y poder copiarlo, cortarlo, etc.
+
+Ctrl + Flechas --> Para desplazarno de palabra en palabra por el contenido.
