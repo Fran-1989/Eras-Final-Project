@@ -1,0 +1,737 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"Teatro",
+				"Teatro-Opera"
+			],
+			[
+				"Economie",
+				"Economie-Gestion"
+			],
+			[
+				"string",
+				"stringToDateObj"
+			],
+			[
+				"E",
+				"Expenses"
+			],
+			[
+				"expe",
+				"expensesForm"
+			],
+			[
+				"Exp",
+				"ExpensesViewController"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"show",
+				"showFire"
+			],
+			[
+				"pokemonF",
+				"pokemonFuegoId"
+			],
+			[
+				"pok",
+				"pokemonFuego"
+			],
+			[
+				"tipo",
+				"tipoFuego"
+			],
+			[
+				"po",
+				"pokemonFuego"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"coor",
+				"coordenadas"
+			],
+			[
+				"se",
+				"secondButton"
+			],
+			[
+				"weapon",
+				"weapons"
+			],
+			[
+				"saoxn",
+				"saxonArmy"
+			],
+			[
+				"viking",
+				"vikingArmy"
+			],
+			[
+				"saxon",
+				"saxonArmy"
+			],
+			[
+				"vik",
+				"viking"
+			],
+			[
+				"saxo",
+				"saxonArmy"
+			],
+			[
+				"he",
+				"helpers"
+			],
+			[
+				"st",
+				"setRandom"
+			],
+			[
+				"block",
+				"blockBonus"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"e",
+				"example"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"de",
+				"decrementar"
+			],
+			[
+				"nu",
+				"nuevaFrase"
+			],
+			[
+				"pa",
+				"placeholder	Attr"
+			],
+			[
+				"on",
+				"onload"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"pep",
+				"pepperoni"
+			],
+			[
+				"pre",
+				"precioFinal"
+			],
+			[
+				"cr",
+				"crust-gluten-free"
+			],
+			[
+				"toggl",
+				"toggleClass"
+			],
+			[
+				"sauce",
+				"sauce-white"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"ra",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"bot",
+				"margin-bottom"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"tarea",
+				"tareaDone"
+			],
+			[
+				"element",
+				"elementoDone"
+			],
+			[
+				"ele",
+				"elementoLista"
+			],
+			[
+				"a",
+				"appendChild"
+			],
+			[
+				"creat",
+				"createTextNode"
+			],
+			[
+				"alig",
+				"vertical-align"
+			],
+			[
+				"cont",
+				"align-content"
+			],
+			[
+				"pos",
+				"pos-f	position: fixed;"
+			],
+			[
+				"p",
+				"placeholder	Attr"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3200,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 658,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/USER/Desktop/angular/proyecto",
+		"/C/Users/USER/Desktop/angular/proyecto/js",
+		"/C/Users/USER/Desktop/angular/proyecto/views"
+	],
+	"file_history":
+	[
+		"/C/Users/USER/Desktop/angular/proyecto/views/portada.html",
+		"/C/Users/USER/Desktop/angular/proyecto/views/inicio.html",
+		"/C/Users/USER/Desktop/angular/proyecto/views/estudiar.html",
+		"/C/Users/USER/Desktop/angular/proyecto/app.js",
+		"/C/Users/USER/Desktop/angular/bandsApp-master/index.html",
+		"/C/Users/USER/Desktop/angular/proyecto/css/styles.css",
+		"/C/Users/USER/Desktop/angular/proyecto/index.html",
+		"/C/Users/USER/Desktop/angular/proyecto/starter-template/index.html",
+		"/C/Users/USER/Desktop/angular/bandsApp-master/views/cardTemplate.html",
+		"/C/Users/USER/Desktop/angular/MarvelShop/index.html",
+		"/C/Users/USER/Desktop/angular/proyecto/json/universidades.json",
+		"/C/Users/USER/Desktop/angular/proyecto/json/ocio.json",
+		"/C/Users/USER/Desktop/angular/bandsApp-master/json/Bands_Json.js",
+		"/C/Users/USER/Desktop/angular/bandsApp-master/js/app.js",
+		"/C/Users/USER/Desktop/ocio.json",
+		"/C/Users/USER/Desktop/universidades.json",
+		"/C/Users/USER/Downloads/Cinema/main.js",
+		"/C/Users/USER/Downloads/Cine_Geolocation/geolocationcine.js",
+		"/C/Users/USER/Desktop/web_generation/face/geolocation/current_position.html",
+		"/C/Users/USER/Desktop/angular/bandsApp-master/examples.scss",
+		"/C/Users/USER/Desktop/angular/server.js",
+		"/C/Users/USER/Desktop/angular/bandsApp-master/views/infoband.html",
+		"/C/Users/USER/Desktop/angular/facilito/app.js",
+		"/C/Users/USER/Desktop/angular/MarvelShop/js/app.js",
+		"/C/Users/USER/Desktop/angular/MarvelShop/views/portada.html",
+		"/C/Users/USER/Desktop/angular/MarvelShop/views/comics.html",
+		"/C/Users/USER/Desktop/angular/MarvelShop/views/contact.html",
+		"/C/Users/USER/Desktop/angular/MarvelShop/views/chars.html",
+		"/C/Users/USER/Desktop/angular/facilito/index.html",
+		"/C/Users/USER/Desktop/angular/facilito/styles.css",
+		"/C/Users/USER/Desktop/angular/avanzado/js/app.js",
+		"/C/Users/USER/Desktop/angular/repaso/js/app.js",
+		"/C/Users/USER/Desktop/angular/MarvelShop/css/style.css",
+		"/C/Users/USER/Desktop/angular/Marvel Shop APP/css/style.css",
+		"/C/Users/USER/Desktop/angular/Marvel Shop APP/js/app.js",
+		"/C/Users/USER/Desktop/angular/Marvel Shop APP/views/portada.html",
+		"/C/Users/USER/Desktop/angular/got/index.html",
+		"/C/Users/USER/Desktop/angular/Marvel Shop APP/views/comics.html",
+		"/C/Users/USER/Desktop/angular/Marvel Shop APP/index.html",
+		"/C/Users/USER/Desktop/angular/repaso/views/expenses.html",
+		"/C/Users/USER/Desktop/angular/got/js/app.js",
+		"/C/Users/USER/Desktop/angular/got/js/got.js",
+		"/C/Users/USER/Desktop/angular/repaso/index.html",
+		"/C/Users/USER/Desktop/angular/Muebles/css/style.css",
+		"/C/Users/USER/Desktop/angular/Muebles/comics.html",
+		"/C/Users/USER/Desktop/angular/Muebles/index.html",
+		"/C/Users/USER/Desktop/angular/marvel/index.html",
+		"/C/Users/USER/Desktop/angular/basico/js/app.js",
+		"/C/Users/USER/Desktop/angular/marvel/js/app.js",
+		"/C/Users/USER/Desktop/angular/marvel/css/style.css",
+		"/C/Users/USER/Desktop/angular/marvel/comics.html",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/USER/Desktop/furniture/app.js",
+		"/C/Users/USER/Desktop/furniture/styles.css",
+		"/C/Users/USER/Desktop/furniture/index.html",
+		"/C/Users/USER/Desktop/angular/repaso/views/expensesForm.html",
+		"/C/Users/USER/Desktop/angular/repaso/js/helper.js",
+		"/C/Users/USER/Desktop/git/index.html",
+		"/C/Users/USER/Desktop/git/archivo.js",
+		"/C/Users/USER/Desktop/angular/index.html",
+		"/C/Users/USER/Downloads/repaso/index.html",
+		"/C/Users/USER/Downloads/repaso/js/app.js",
+		"/C/Users/USER/Desktop/angular/avanzado/index.html",
+		"/C/Users/USER/Desktop/angular/basico/index.html",
+		"/C/Users/USER/Desktop/angular/avanzado/views/expenses.html",
+		"/C/Users/USER/Desktop/angular/avanzado/expenseForm.html",
+		"/C/Users/USER/Desktop/prueba.js",
+		"/C/Users/USER/Desktop/angular/angular-phonecat/app/index.html",
+		"/C/Users/USER/Desktop/web_generation/face/spotify/Spotify-Artist-Search-master/js/logged.js",
+		"/C/Users/USER/Desktop/angular/avanzado/gastos/index.html",
+		"/C/Users/USER/Desktop/web_generation/face/hangman/styles.css",
+		"/C/Users/USER/Desktop/web_generation/face/spotify/Spotify-Artist-Search-master/css/stylesheet.css",
+		"/C/Users/USER/Desktop/web_generation/face/spotify/Spotify-Artist-Search-master/index.html",
+		"/C/Users/USER/Desktop/index.html",
+		"/C/Users/USER/Desktop/Spotify-Artist-Search/logged.html",
+		"/C/Users/USER/Desktop/Spotify-Artist-Search/index.html",
+		"/C/Users/USER/Desktop/web_generation/face/Pokemon/pokemon.js",
+		"/C/Users/USER/Desktop/web_generation/face/canvas/pong_exercise/pong.js",
+		"/C/Users/USER/Desktop/web_generation/face/canvas/pong_exercise/index.html",
+		"/C/Users/USER/Desktop/web_generation/face/spotify/index.html",
+		"/C/Users/USER/Desktop/web_generation/face/canvas/PongExercise-master/Pong_Solution/paddle.js",
+		"/C/Users/USER/Desktop/web_generation/hybrid/jquery/jquery_exercise/exercise.js",
+		"/C/Users/USER/Desktop/web_generation/face/audio_video/video.js",
+		"/C/Users/USER/Desktop/web_generation/face/vikings.js",
+		"/C/Users/USER/Desktop/web_generation/preselection/semana3/to_do/js/to_do.js",
+		"/C/Users/USER/Desktop/web_generation/face/audio_video/styles.css",
+		"/C/Users/USER/Desktop/web_generation/face/audio_video/index.html",
+		"/C/Users/USER/Downloads/Cine_Geolocation/index.html",
+		"/C/Users/USER/Desktop/web_generation/face/Pokemon/index.html",
+		"/C/Users/USER/Downloads/Cinema/index.html",
+		"/C/Users/USER/Desktop/web_generation/face/geolocation/local.html",
+		"/C/Users/USER/Desktop/web_generation/face/geolocation/example.html",
+		"/C/Users/USER/Desktop/web_generation/face/geolocation/index.html",
+		"/C/Users/USER/Desktop/web_generation/hybrid/jquery/jquery_exercise/index.html",
+		"/C/Users/USER/Desktop/web_generation/face/geolocation/geolocation.html",
+		"/C/Users/USER/Desktop/web_generation/face/vikings_resuelto",
+		"/C/Users/USER/Desktop/web_generation/hybrid/jquery/pizza/pizza-builder-master/src/pizza.js",
+		"/C/Users/USER/Desktop/web_generation/face/hangman/index.html",
+		"/C/Users/USER/Desktop/web_generation/face/hangman/hangman.js",
+		"/C/Users/USER/Desktop/web_generation/face/vikings3.js",
+		"/C/Users/USER/Desktop/web_generation/face/vikings2.js",
+		"/C/Users/USER/Desktop/web_generation/face/prueba.js",
+		"/C/Users/USER/Downloads/jasmine-koans/spec/koans.js",
+		"/C/Users/USER/Downloads/JavaScript Koans.pdf",
+		"/C/Users/USER/Downloads/jasmine-koans/SpecRunner.html",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/USER/Desktop/web_generation/hybrid/jquery/jquery_exercise/styles.css",
+		"/C/Users/USER/Desktop/web_generation/hybrid/html_css_bootstrap/bootstrap-3.3.6-dist/index.html",
+		"/C/Users/USER/Desktop/web_generation/hybrid/jquery/pizza/pizza-builder-master/src/index.html",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/USER/Desktop/web_generation/hybrid/html_css_bootstrap/twitter/index.html",
+		"/C/Users/USER/Desktop/web_generation/hybrid/jquery/pizza/pizza-builder-master/src/pizza.css",
+		"/C/Users/USER/Desktop/web_generation/hybrid/jquery/pizza/pizza-builder-master/README.md",
+		"/C/Users/USER/Desktop/web_generation/hybrid/jquery/pizza/pizza-builder-master/LICENSE",
+		"/C/Users/USER/Desktop/web_generation/preselection/semana3/to_do/to_do.html",
+		"/C/Users/USER/Desktop/web_generation/hybrid/ejercicios_hybrid_semana1/bootstrap-3.3.6-dist/css/estilos.css",
+		"/C/Users/USER/Desktop/web_generation/hybrid/ejercicios_hybrid_semana1/bootstrap-3.3.6-dist/index.html",
+		"/C/Users/USER/Desktop/web_generation/hybrid/html_css_bootstrap/twitter/css/estilos.css",
+		"/C/Users/USER/Desktop/web_generation/hybrid/jquery/853650e72db90fc2e606-37f2c836d0fbe1d00d9ad1acc9198df167584dc0/jquery.html",
+		"/C/Users/USER/Desktop/web_generation/hybrid/html_css_bootstrap/bootstrap-3.3.6-dist/css/estilos.css",
+		"/C/Users/USER/Desktop/web_generation/hybrid/bootstrap-3.3.6/docs/examples/jumbotron/jumbotron.css",
+		"/C/Users/USER/Desktop/web_generation/hybrid/bootstrap-3.3.6/docs/examples/jumbotron/index.html",
+		"/C/Users/USER/Desktop/web_generation/hybrid/bootstrap-3.3.6/docs/examples/jumbotron-narrow/index.html",
+		"/C/Users/USER/Desktop/web_generation/hybrid/bootstrap-3.3.6/docs/examples/jumbotron-narrow/jumbotron-narrow.css",
+		"/C/Users/USER/Desktop/web_generation/hybrid/html_css_bootstrap/style.css",
+		"/C/Users/USER/Desktop/web_generation/hybrid/html_css_bootstrap/index.html",
+		"/C/Users/USER/Desktop/web_generation/hybrid/html_css_bootstrap/style"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Mobile",
+			">\n",
+			"Actividades",
+			"();\n",
+			"Condiciones",
+			"Restaurante",
+			"\"€\"",
+			"carreras",
+			"química",
+			"derecho",
+			"text",
+			"b",
+			"a",
+			"if",
+			"li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Restaurante-Bar",
+			"",
+			"degrees"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.962006079027,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyectofinal.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

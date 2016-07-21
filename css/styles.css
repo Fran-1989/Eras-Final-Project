@@ -1,3 +1,4 @@
+/*CSS para vista principal*/
 .navigation {
 	background-color: #008080;
 }
@@ -7,8 +8,8 @@
 }
 
 .logo {
-	margin-left: 20px;
-	font-family: 'Slabo 27px', serif;
+	margin-left: 175px;
+	font-family: 'Slabo 27px', serif;	
 }
 
 .container-europa {
@@ -17,7 +18,7 @@
 
 .image {
 	height: 50px;
-	margin-left: 60px;
+	margin-left: 130px;
 	border-radius: 10px;
 	width: 85px;
 	margin-top: 8px;
@@ -27,6 +28,20 @@
 	font-family: 'Oswald', sans-serif;
 }
 
+.pages {
+	margin-right: 150px;
+}
+
 footer.page-footer {
     background-color: #008080;
+}
+
+body {
+	background-color: #E0FFFF;
+}
+
+
+/*CSS para la vista Inicio*/
+.intro {
+	margin-bottom: -90px;
 }

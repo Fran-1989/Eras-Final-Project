@@ -32,9 +32,9 @@ https://www.youtube.com/watch?v=Sw-DXOGe4MU&index=26&list=PLjARR1053fYms_VU3QDN9
 
 https://www.youtube.com/watch?v=kPRMWSsM2nA --> Google Maps with Angular JS
 
-http://colours.neilorangepeel.com/ --> Para buscar colores CSS.
-
 https://www.youtube.com/watch?v=9Zfwq_yPWDQ --> Idém al anterior.
 
 http://jquery-manual.blogspot.com.es/2015/01/tutorial-javascript-parte-33-google.html --> Manual JS.
+
+http://colours.neilorangepeel.com/ --> Para buscar colores CSS.
 
