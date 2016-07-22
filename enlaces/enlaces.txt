@@ -38,3 +38,15 @@ http://jquery-manual.blogspot.com.es/2015/01/tutorial-javascript-parte-33-google
 
 http://colours.neilorangepeel.com/ --> Para buscar colores CSS.
 
+https://www.uno-de-piera.com --> Tutoriales de todo.
+
+https://scotch.io/tutorials/easy-angularjs-forms-with-angular-formly --> Simplificar formularios en AngularJS
+
+https://scotch.io/tutorials/single-page-apps-with-angularjs-routing-and-templating --> Tutorial Simple Page App con AngularJS
+
+https://scotch.io/tutorials/animating-angularjs-apps-ngview --> Animate Angular with ngView.
+
+https://www.youtube.com/watch?v=dVIOLfZxEj8 --> LocalStorage y AngularJS (LocalStorageModule).
+
+https://www.youtube.com/watch?v=XqSdWpGljPQ&list=PL5436F268E4A02940&index=9 --> LocalStorageModule con CodigoFacilito.
+

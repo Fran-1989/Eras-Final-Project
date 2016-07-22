@@ -4,6 +4,7 @@
     "country": "España",
     "city": "Sevilla",
     "name": "Universidad de Sevilla",
+    "language": "Español",
     "address": "Universidad de Sevilla, Calle San Fernando, 4, 41004 Sevilla, España",
     "image":"http://personal.us.es/ordogar/uploads/images/sello-us.jpg",
     "position": {
@@ -304,13 +305,14 @@
     "country": "Francia",
     "city": "Paris",
     "name": "Université París-Sorbonne",
+    "language": "Francés",
     "address": "Universidad Paris-Sorbonne1, rue Victor Cousin,75005, Paris, Francia",
     "image":"https://deaquiaalla.files.wordpress.com/2008/07/sorbona.jpg",
     "position": {
       "lat": 48.848841,
       "long": 2.3431142
     },
-    "universities": [
+    "facultades": [
       {
         "id": 1,
         "name": "Université de París I Panthéon-Sorbonne",
@@ -458,13 +460,14 @@
     "country": "Escocia",
     "city": "Aberdeen",
     "name": "University of Aberdeen",
+    "language": "English",
     "address": "The University of Aberdeen, King's College,Aberdeen, AB24 3FX, Scotland",
     "image":"https://upload.wikimedia.org/wikipedia/commons/0/05/King's_College,_Old_Aberdeen_-_geograph.org.uk_-_118509.jpg",
     "position": {
       "lat": 57.16476,
       "long": -2.1037144
     },
-    "Colleges and Schools": [
+    "facultades": [
       {
         "id": 1,
         "name": "Business School",

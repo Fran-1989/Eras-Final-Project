@@ -1,1 +1,31 @@
-<h1>Hola estudiar!</h1>
+<section ng-controller="Universities">
+    <div class="input-field col s12">
+        <select class="browser-default">
+            <option value="" disabled selected>Elije una universidad</option>
+            <option value="1" ng-repeat="universidad in universidades">{{universidad.name}}</option>
+        </select>
+    </div>
+    <div class="input-field col s12">
+        <select class="browser-default">
+            <option value="" disabled selected>Elije una facultad u escuela</option>
+            <option value="1" class="facultades" ng-repeat="facultad in universidades.facultades">{{facultad.name}}</option>
+        </select>
+    </div>
+
+    <div class="row">
+        <div class="col s12">
+            <div class="col s4 card hoverable" ng-repeat="universidad in universidades">
+                <div class="card-image">
+                    <img src="{{universidad.image}}">
+                    <span class="card-title">{{universidad.name | uppercase}}</span>
+                </div>
+                <div class="card-content">
+                    <p><strong>Dirección:</strong>{{universidad.address}}</p>
+                </div>
+                <div class="card-action">
+                    <a href="#info/{{band.name}}">Some one more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

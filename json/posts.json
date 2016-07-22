@@ -1,0 +1,147 @@
+[
+	{
+	    "id": 1,
+	    "country": "España",
+	    "city": "Sevilla",
+	    "category": "Language Exchange",
+	    "title": "English-Spanish Meeting",
+	    "date": "19/10/2016",
+	    "address": "Calle San Fernando, 13, 41004 Sevilla, España",
+	    "price_average": 20,
+	    "image":"http://creatiabusiness.com/wp-content/uploads/2013/10/intercambioidiomasBLOG.jpg",
+	    "position": {
+	      "lat": 37.3822646,
+	      "long": -5.9929475
+    	},
+    	"Description": "We are a group of english students who wants to meet spanish students to practise the language. We can help you with your english!"
+  	},
+  	{
+	    "id": 2,
+	    "country": "España",
+	    "city": "Sevilla",
+	    "category": "Sports",
+	    "title": "Skating in Alamillo's Park",
+	    "date": "25/09/2016",
+	    "address": "Isla de la Cartuja, 41092 Sevilla, España",
+	    "price_average": 20,
+	    "image":"http://experienciasactivas.com/wp-content/uploads/2012/11/Patinadores-provistos-de-protecciones.jpg",
+	    "position": {
+	      "lat": 37.4178356,
+	      "long": -5.9981922
+    	},
+    	"Description": "If you want to enjoy sometime practising skating and meeting international students join us!"
+  	},
+  	{
+	    "id": 3,
+	    "country": "España",
+	    "city": "Sevilla",
+	    "category": "Food & Bars",
+	    "title": "Tapas Meeting",
+	    "date": "29/11/2016",
+	    "address": "Calle García de Vinuesa, 11, 41001 Sevilla, España",
+	    "price_average": 20,
+	    "image":"http://www.lagastroteca.es/wp-content/uploads/2012/12/tapas-sevilla.jpg",
+	    "position": {
+	      "lat": 37.3866753,
+	      "long": -5.9952306
+    	},
+    	"Description": "Group of students who wants to enjoy some tapas and wines in a typical bar of Sevilla"
+  	},
+  	{
+	    "id": 4,
+	    "country": "France",
+	    "city": "Paris",
+	    "category": "Language Exchange",
+	    "title": "Intercambio Francés-Español",
+	    "date": "19/10/2016",
+	    "address": "10 Rue du Grand Prieuré, 75011 Paris, Francia",
+	    "price_average": 20,
+	    "image":"http://today.salve.edu/wp-content/uploads/2014/02/student_language_0214.jpg",
+	    "position": {
+	      "lat": 48.8652237,
+	      "long": 2.3688742
+    	},
+    	"Description": "Grupo de estudiantes españoles que se reunen para quedar un rato y practicar francés. Apuntate!"
+  	},
+  	{
+	    "id": 5,
+	    "country": "Francia",
+	    "city": "Paris",
+	    "category": "Sports",
+	    "title": "Indoor Footbal Match",
+	    "date": "12/09/2016",
+	    "address": "Avenue Paul Appell, 75014 Paris, Francia",
+	    "price_average": 20,
+	    "image":"http://www.gannett-cdn.com/-mm-/d64e516ed72549d8d8dbd95cad987f63e5f86c61/c=224-0-2775-1913/local/-/media/2015/11/29/Salem/B9319782062Z.1_20151129222022_000_G2LCK7EDA.1-0.jpg",
+	    "position": {
+	      "lat": 48.82127,
+	      "long": 2.3251669
+    	},
+    	"Description": "Free indoor Footbal match for students who live in Paris"
+  	},
+  	{
+	    "id": 6,
+	    "country": "Francia",
+	    "city": "Paris",
+	    "category": "Food & Bars",
+	    "title": "Noche degustación comida francesa",
+	    "date": "17/02/2016",
+	    "address": "96 Rue de Richelieu, 75002 París, Francia",
+	    "price_average": 20,
+	    "image":"http://www.goodfrenchfood.com/images/bg_pic3.jpg",
+	    "position": {
+	      "lat": 48.870768,
+	      "long": 2.3389614
+    	},
+    	"Description": "Grupo de estudiantes españoles para quedar y degustar comida típica Francesa!"
+  	},
+  	{
+	    "id": 7,
+	    "country": "Escocia",
+	    "city": "Aberdeen",
+	    "category": "Language Exchange",
+	    "title": "Practicar Inglés y Español",
+	    "date": "29/01/2016",
+	    "address": "Little Belmont Street, Aberdeen AB10 1JG, Escocia",
+	    "price_average": 20,
+	    "image":"https://trabajareninglaterra.files.wordpress.com/2013/08/espac3b1a_uk.jpg",
+	    "position": {
+	      "lat": 57.1470581,
+	      "long": -2.1014242
+    	},
+    	"Description": "Quedada en Old SchoolHouse para intercambio de idiomas y poder practicar inglés y español y pasar un rato divertido"
+  	},
+  	{
+	    "id": 8,
+	    "country": "Escocia",
+	    "city": "Aberdeen",
+	    "category": "Sports",
+	    "title": "Tennis Tournament",
+	    "date": "24/03/2016",
+	    "address": "Westburn Park, Westburn Road, Aberdeen AB25 3DE, ",
+	    "price_average": 20,
+	    "image":"http://www.clubcorp.com/var/ezflow_site/storage/images/media/clubs/houston-city-club-media-folder/images/lifestyle/tennis/houstoncityclub-houston-tx-amentities_tennis560x310.jpg/1170324-1-eng-US/HoustonCityClub-Houston-TX-Amentities_Tennis560x310.jpg_singleImage.jpg",
+	    "position": {
+	      "lat": 57.137506,
+	      "long": -2.1756091
+    	},
+    	"Description": "Free Indoor Tennis Tournament for university students"
+  	},
+  	{
+	    "id": 9,
+	    "country": "Escocia",
+	    "city": "Aberdeen",
+	    "category": "Food & Bars",
+	    "title": "International Students Party",
+	    "date": "15/09/2016",
+	    "address": "2 Exchange Street, Aberdeen AB11 6PH, Escocia",
+	    "price_average": 20,
+	    "image":"https://vubridges.files.wordpress.com/2012/09/international-students-party1.jpg",
+	    "position": {
+	      "lat": 57.1460856,
+	      "long": -2.0980646
+    	},
+    	"Description": "Join the welcome party for international students in our University!"
+  	}
+
+]
