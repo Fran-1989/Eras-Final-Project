@@ -16,23 +16,44 @@
                 </div>
             </div>
         </div>
-    </div> -->
-</section>
+    </div> 
+</section>-->
 <section ng-controller="Posts">
-<div class="row">
-<div class="col s12 content-box">
-<div class="card hoverable card-box" ng-repeat="post in posts">
-    <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="{{post.image}}">
+    <form class="formulario ">
+        <div class="row">
+            <div class="col s4 offset-s2">
+                <input placeholder="Search by category" type="text" ng-model="decadeFilter">
+            </div>
+            <div class="col s4">
+                <input placeholder="Search by name" type="text" ng-model="nameFilter">
+            </div>
+        </div>
+    </form>
+    <div class="row">
+        <div class="col s12 content-box">
+            <div class="card hoverable card-box" ng-repeat="post in posts">
+                <div class="card-image waves-effect waves-block waves-light">
+                    <img class="activator" src="{{post.image}}">
+                </div>
+                <div class="card-content">
+                    <span class="card-title activator"><p class="center-align">{{post.title | uppercase}}</p><i class="material-icons right">more_vert</i></span>
+                    <p><a href="#">Ubicación</a></p>
+                </div>
+                <div class="card-reveal">
+                    <span class="card-title center-align">{{post.title | uppercase}}<i class="material-icons right">close</i></span>
+                    <p><b>Address:</b> {{post.address}}</p>
+                    <p><b>Date:</b> {{post.date}}</p>
+                    <p><b>Description:</b> {{post.Description}}</p>
+                    <p>Are you coming?</p>
+                    <input placeholder="Enter your name" id="name" type="text" class="validate" ng-model="nuevoAsistente.name">
+                    <input placeholder="Enter your nationality" id="nationality" type="text" class="validate" ng-model="nuevoAsistente.nationality">
+                    <button class="waves-effect waves-light btn" ng-click="addAssistant()">Confirm</button>
+                    <button class="waves-effect waves-teal btn-flat">Assistants</button>
+                    <ul>
+                        <li ng-repeat="asistente in asistentes">{{asistente.name}} - {{asistente.nationality}}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4"><p class="center-align">{{post.title | uppercase}}</p><i class="material-icons right">more_vert</i></span>
-      <p><a href="#">This is a link</a></p>
-    </div>
-    <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4 center-align">{{post.title | uppercase}}<i class="material-icons right">close</i></span>
-      <p><b>Address:</b>{{post.address}}</p>
-    <p><b>Date:</b>{{post.date}}</p>
-    <p><b>Description:</b>{{post.Description}}</p>
-    </div>
-  </div>
+</section>

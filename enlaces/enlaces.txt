@@ -50,3 +50,7 @@ https://www.youtube.com/watch?v=dVIOLfZxEj8 --> LocalStorage y AngularJS (LocalS
 
 https://www.youtube.com/watch?v=XqSdWpGljPQ&list=PL5436F268E4A02940&index=9 --> LocalStorageModule con CodigoFacilito.
 
+https://www.youtube.com/watch?v=I4iB0kOSmx8 --> Web Storage and Angular JS.
+
+http://underscorejs.org/ --> Librería UnderScore.
+

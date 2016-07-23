@@ -13,8 +13,7 @@
 	      "lat": 37.3822646,
 	      "long": -5.9929475
     	},
-    	"Description": "We are a group of english students who wants to meet spanish students to practise the language. We can help you with your english!"
-  	},
+    	"description": "We are a group of english students who wants to meet spanish students to practise the language. We can help you with your english!"  	},
   	{
 	    "id": 2,
 	    "country": "España",

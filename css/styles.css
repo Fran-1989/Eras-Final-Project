@@ -63,6 +63,10 @@ body {
 
 /*CSS para la vista Posts*/
 
+.formulario {
+	margin-top: 20px;
+}
+
 .content-box {
 	margin-top: 10px;
 }
@@ -70,4 +74,8 @@ body {
 .card-box {
 	display: inline-block;
 	margin-right: 70px;
+}
+
+.card-title {
+	color: #FF9800;
 }

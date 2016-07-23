@@ -1,4 +1,4 @@
-var app = angular.module('Eras+App', ['ngRoute','LocalStorageModule']);
+var app = angular.module('Eras+App', ['ngRoute', 'LocalStorageModule']);
 
 app.config(['$routeProvider', function($routeProvider) {
     $routeProvider
@@ -21,25 +21,76 @@ app.config(['$routeProvider', function($routeProvider) {
         .otherwise({
             redirectTo: '/'
         })
-}]);	
+}]);
+
+/*
+app.factory('Assistants',function () {
+	var assistants = {};
+
+	assistants.entries = [
+		{name: "James Smith", nationality: "English"},
+	    {name: "Juan García", nationality: "Spanish"},
+	    {name: "Eduardo Cruz", nationality: "Spanish"},
+	    {name: "Jurgen Low", nationality: "German"},
+	    {name: "Jeremy Sagna" , nationality: "French"},
+	    {name: "Emilio Fernandez", nationality: "Spanish"},
+	    {name: "Bianca Sabatini", nationality: "Italian"},
+	    {name: "Chloe Hart", nationality: "English"},
+	    {name: "Kevin Stones", nationality: "Irish"},
+	    {name: "Valeria Bertrazzi", nationality: "Italian"},
+	    {name: "Thomas Muller", nationality: "German"},
+	    {name: "Leonardo Di Mateo", nationality: "Italian"},
+	    {name: "Kris Lee", nationality: "Irish" },
+	    {name: "Roberto Sanchez", nationality: "Spanish"},
+	    {name: "Camille Lombrad", nationality: "French"},
+	    {name: "Louise Leblanc", nationality: "French"}
+	]
+
+assistants.addAssistant = function () {
+	assistants.entries.push(newAssistant);
+	var newAssistant = {};
+}
+
+	return assistants;
+})
+*/
 
 app.controller('Universities', ['$scope', '$http', function($scope, $http) {
     $http.get("json/universidades.json").success(function(data) {
         $scope.universidades = data;
-
-      
     });
 
 }]);
 
-app.controller('Posts', ['$scope', '$http', function($scope, $http) {
+app.controller('Posts', ['$scope', '$http', function($scope, $http, localStorageService) {
     $http.get("json/posts.json").success(function(data) {
         $scope.posts = data;
+        });
 
-      });
+        $scope.asistentes = [
+            { name: "James Smith", nationality: "English" },
+            { name: "Juan García", nationality: "Spanish" },
+            { name: "Eduardo Cruz", nationality: "Spanish" },
+            { name: "Jurgen Low", nationality: "German" },
+            { name: "Jeremy Sagna", nationality: "French" },
+            { name: "Emilio Fernandez", nationality: "Spanish" },
+            { name: "Bianca Sabatini", nationality: "Italian" },
+            { name: "Chloe Hart", nationality: "English" },
+            { name: "Kevin Stones", nationality: "Irish" },
+            { name: "Valeria Bertrazzi", nationality: "Italian" },
+            { name: "Thomas Muller", nationality: "German" },
+            { name: "Leonardo Di Mateo", nationality: "Italian" },
+            { name: "Kris Lee", nationality: "Irish" },
+            { name: "Roberto Sanchez", nationality: "Spanish" },
+            { name: "Camille Lombrad", nationality: "French" },
+            { name: "Louise Leblanc", nationality: "French" }
+        ];
+        $scope.nuevoAsistente = {};
 
+    $scope.addAssistant = function() {
+        $scope.asistentes.push($scope.nuevoAsistente);
+    }
 }]);
-
 
 
 $(document).ready(function() {
