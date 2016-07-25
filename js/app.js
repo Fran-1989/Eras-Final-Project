@@ -1,4 +1,4 @@
-var app = angular.module('Eras+App', ['ngRoute', 'LocalStorageModule']);
+var app = angular.module('ErasmusApp', ['ngRoute', 'LocalStorageModule']);
 
 app.config(['$routeProvider', function($routeProvider) {
     $routeProvider
@@ -85,6 +85,11 @@ app.controller('Posts', ['$scope', '$http', function($scope, $http, localStorage
             { name: "Camille Lombrad", nationality: "French" },
             { name: "Louise Leblanc", nationality: "French" }
         ];
+
+        $scope.random = Math.floor(Math.random() * $scope.asistentes.length);
+        $scope.list = $scope.getElementByID('asistentes');
+        list.appendChild($scope.asistentes[random]);
+
         $scope.nuevoAsistente = {};
 
     $scope.addAssistant = function() {

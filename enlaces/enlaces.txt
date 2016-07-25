@@ -54,3 +54,7 @@ https://www.youtube.com/watch?v=I4iB0kOSmx8 --> Web Storage and Angular JS.
 
 http://underscorejs.org/ --> Librería UnderScore.
 
+https://www.youtube.com/watch?v=pqLS4oyJ8cA --> Tutorial to Get or Remove Random Array Elements.
+
+https://www.youtube.com/watch?v=I8PXDxthuKI --> Crear un TODO-List en Angular.
+
