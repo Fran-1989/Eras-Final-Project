@@ -15,6 +15,11 @@ app.config(['$routeProvider', function($routeProvider) {
             templateUrl: 'views/estudiar.html',
             controller: 'Universities'
         })
+        .when('/facultades', {
+            templateUrl: 'views/facultades.html',
+            controller: 'facultades'
+        })
+
         .when('/posts', {
             templateUrl: 'views/posts.html',
             controller: 'Posts'
@@ -23,6 +28,21 @@ app.config(['$routeProvider', function($routeProvider) {
             redirectTo: '/'
         })
 }]);
+
+app.directive('misFacultades', function() {
+    function linkFunction($scope, elem, attrs) {
+        $scope.facultades = function () {
+            for (i = 0; i < universidades.length; i++) {
+                var facultades = 
+            }
+        }
+    }
+    return {
+        templateUrl: ,
+        restrict: 'EA',
+        link: linkFunction
+    };
+});
 
 
 app.controller('Universities', ['$scope', '$http', function($scope, $http) {

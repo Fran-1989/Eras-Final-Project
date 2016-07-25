@@ -60,3 +60,11 @@ https://www.youtube.com/watch?v=pqLS4oyJ8cA --> Tutorial to Get or Remove Random
 
 https://www.youtube.com/watch?v=I8PXDxthuKI --> Crear un TODO-List en Angular.
 
+https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q --> YOUTUBE / Canal de kudvenkat / Tutoriales Angular Js.
+
+https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ --> YOUTUBE / Canal de codedamn
+
+https://www.youtube.com/watch?v=iAS_dkATtVI&list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl&index=13 --> Tutorial para crear filtros propios en Angular Js.
+
+http://codedamn.com/ --> Página con tutoriales, videotutoriales y explicaciones para distintos lenguajes de programación.
+
