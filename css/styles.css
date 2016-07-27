@@ -7,9 +7,14 @@
 	display: inline;
 }
 
+.eras {
+	color: #191970;
+}
+
 .logo {
 	margin-left: 175px;
-	font-family: 'Oxygen', sans-serif;	
+	font-family: 'Lato', sans-serif;
+	z-index: 2;
 }
 
 .container-europa {
@@ -22,10 +27,12 @@
 	border-radius: 10px;
 	width: 85px;
 	margin-top: 8px;
+	opacity: 0.7;
+	z-index: -2;
 }
 
 .text {
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 
 .pages {

@@ -1,0 +1,25 @@
+<section ng-controller="Faculties">
+    <form class="formulario ">
+        <div class="row">
+            <div class="col s4 offset-s4">
+                <input placeholder="Search by Faculty" type="text" ng-model="searchText.name">
+            </div>
+        </div>
+    </form>
+    <div class="row">
+        <div class="col s12">
+            <div class="col s4 card hoverable" ng-repeat="faculty in faculties | filter: searchText">
+                <div class="card-image">
+                    <img src="{{faculty.image}}">
+                    <span class="card-title">{{faculty.name | uppercase}}</span>
+                </div>
+                <div class="card-content">
+                    <p><strong>Dirección:</strong>{{faculty.address}}</p>
+                </div>
+                <div class="card-action">
+                    <a href="#/facultades_sevilla.html">Ver facultades</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

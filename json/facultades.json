@@ -1,0 +1,437 @@
+ [{
+ "id": 1,
+ "city": "Sevilla",
+ "name": "Facultad de Geografía e Historia",
+ "image": "http://d1bvpoagx8hqbg.cloudfront.net/originals/918edba819335abf55359bccbc4248c7.jpg",
+ "address": "Universidad de Sevilla, Calle San Fernando, 4, 41004, Sevilla, España",
+ "position": {
+     "lat": 37.380979,
+     "long": -5.991744
+ },
+ "degrees": ["Grado en Historia", "Grado en Antropología Social y Cultural", "Grado en Historia del Arte", "Doble Grado en Geografía y Gestión del Territorio e Historia", "Grado en Arqueología por la Unv. de Granada, Unv. de Jaén y Unv.de Sevilla", "Grado en Geografia y Gestión del Territorio"]
+ }, {
+ "id": 2,
+ "city": "Sevilla",
+ "name": "Centro Internacional",
+ "image": "http://www.sevillaactualidad.com/images/stories/imagen/sevilla/educacion/centros/universitarios/sevilla/edificio-ciudad-jardin.jpg",
+ "address": "Avda. Ciudad Jardín 20/22, 41005, Sevilla, España",
+ "position": {
+     "lat": 37.379276,
+     "long": -5.967105
+ },
+ "degrees": "Grado en estudios de Asia Oriental"
+ }, {
+ "id": 3,
+ "city": "Sevilla",
+ "name": "Escuela Politécnica Superior",
+ "image": "http://www.eps.us.es/informacion-general/localizacion/imagenes/entrada-eps.jpg",
+ "address": "Calle Virgen de África, 7, 41011, Sevilla, España",
+ "position": {
+     "lat": 37.376271,
+     "long": -6.002691
+ },
+ "degrees": ["Grado en Ingeniería Mecánica", "Grado en Ingeniería Electrónica Industrial", "Grado en Ingeniería en Diseño Industrial y Desarrollo del Producto", "Doble Grado en Ingeniería Eléctrica e Ingeniería Mecánica", "Grado en Ingeniería Química Industrial", "Doble Grado en Ingeniería Eléctrica e Ingeniería Electrónica Industrial", "Grado en Ingeniería Eléctrica", "Doble Grado en Ing.en Diseño Ind.y Desarrollo del Producto e Ing. Mecánica"]
+ }, {
+ "id": 4,
+ "city": "Sevilla",
+ "name": "Escuela Técnica Superior de Arquitectura",
+ "image": "http://www.distritounicoandaluz.org/wp-content/uploads/2013/10/edificacion_US.jpg",
+ "address": "Avenida Reina Mercedes, 2, 41012, Sevilla, España",
+ "position": {
+     "lat": 37.362474,
+     "long": -5.986478
+ },
+ "degrees": ["Grado en Arquitectura", "Grado en Fundamentos de Arquitectura"]
+ }, {
+ "id": 5,
+ "city": "Sevilla",
+ "name": "Escuela Técnica Superior de Ingeniería",
+ "image": "http://berjadigital.net/images/2014/escuela_tecnica_superior_ingenieros_sevilla.jpg",
+ "address": "Camino de los Descubrimientos, s/n, 41092, Sevilla, España",
+ "position": {
+     "lat": 37.411392,
+     "long": -6.000523
+ },
+ "degrees": ["Grado en Ingeniería de Tecnologías Industriales", "Grado en Ingeniería Civil", "Grado en Ingeniería de la Energía por la Un. de Sevilla y la Un. de Málaga", "Grado en Ingeniería de Organización Industrial por la U. Málaga y U.Sevilla", "Grado en Ingeniería Aeroespacial", "Grado en Ingeniería Electrónica, Robótica y Mecatrónica (UMA-US)", "Grado en Ingeniería de las Tecnologías de Telecomunicación", "Grado en Ingeniería Química"]
+ }, {
+ "id": 6,
+ "city": "Sevilla",
+ "name": "Escuela Técnica Superior de Ingeniería Agronómica",
+ "image": "https://www.upo.es/cms1/export/sites/upo/infraestructuras/planimetria/documentacion_grafica/edificios/Edificio_36/Imagenes_Edificio_36/Edificio_36.jpg",
+ "address": "Ctra. de Utrera, Km. 1, C.P: 41013, Sevilla, España",
+ "position": {
+     "lat": 37.352582,
+     "long": -5.9408538
+ },
+ "degrees": "Grado en Ingeniería Agrícola"
+ }, {
+ "id": 7,
+ "city": "Sevilla",
+ "name": "Escuela Técnica Superior de Ingeniería de Edificación",
+ "image": "http://www.masterdeinteriores.com/wp-content/uploads/2014/12/escuela-t%C3%A9cnica-superior-de-ingenier%C3%ADa-de-edificaci%C3%B3n-sevilla.jpg",
+ "address": "Avda. Reina Mercedes, 4 A, 41012, Sevilla, España",
+ "position": {
+     "lat": 37.361917,
+     "long": -5.986649
+ },
+ "degrees": "Grado en Ciencia y Tecnología de Edificación"
+ }, {
+ "id": 8,
+ "city": "Sevilla",
+ "name": "Escuela Técnica Superior de Ingeniería Informática",
+ "image": "http://ingenius.informatica.us.es/wp-content/uploads/ingenieria_informatica_US.jpg",
+ "address": "Avda. Reina Mercedes, s/n, 41012, Sevilla, España",
+ "position": {
+     "lat": 37.358381,
+     "long": -5.988008
+ },
+ "degrees": ["Grado en Ingeniería de la Salud por la Univ. de Málaga y la Univ.de Sevilla", "Grado en Ingeniería Informática-Ingeniería de Computadores", "Grado en Ingeniería Informática-Ingeniería del Software", "Grado en Ingeniería Informática-Tecnologías Informáticas"]
+ }, {
+ "id": 9,
+ "city": "Sevilla",
+ "name": "Facultad de Bellas Artes",
+ "image": "http://1.bp.blogspot.com/-KtwcrtkdZXU/T_cTBmW5JLI/AAAAAAAAA4A/lUPhXl_lmE8/s1600/66788262.jpg",
+ "address": "Calle Laraña, 3, 41003 Sevilla, España",
+ "position": {
+     "lat": 37.392355,
+     "long": -5.993008
+ },
+ "degrees": ["Grado en Bellas Artes", "Grado en Conservación y Restauración de Bienes Culturales"]
+ }, {
+ "id": 10,
+ "city": "Sevilla",
+ "name": "Facultad de Biología",
+ "image": "http://ingenius.informatica.us.es/wp-content/uploads/ingenieria_informatica_US.jpg",
+ "address": "C/ Profesor García González, s/n, 41012, Sevilla, España",
+ "position": {
+     "lat": 37.360447,
+     "long": -5.987151
+ },
+ "degrees": ["Grado en Bioquímica por la Universidad de Sevilla y Universidad de Málaga", "Grado en Biología"]
+ }, {
+ "id": 11,
+ "city": "Sevilla",
+ "name": "Facultad de Ciencias de la Educación",
+ "image": "http://www.e-architect.co.uk/images/jpgs/spain/facultad_de_ciencias_sevilla_g310311_g2.jpg",
+ "address": " Calle Pirotecnia, s/n, 41013, Sevilla, España",
+ "position": {
+     "lat": 37.376517,
+     "long": -5.977141
+ },
+ "degrees": ["Grado en Educación Infantil", "Grado en Educación Primaria", "Grado en Ciencias de la Actividad Física y del Deporte", "Grado en Pedagogía"]
+ }, {
+ "id": 12,
+ "city": "Sevilla",
+ "name": "Facultad de Ciencias del Trabajo",
+ "image": "http://www.distritounicoandaluz.org/wp-content/uploads/2013/10/trabajo_US.jpg",
+ "address": " Calle Enramadilla, 18, 41018, Sevilla, España",
+ "position": {
+     "lat": 37.378087,
+     "long": -5.978606
+ },
+ "degrees": "Grado en Relaciones Laborales y Recursos Humanos"
+ }, {
+ "id": 13,
+ "city": "Sevilla",
+ "name": "Facultad de Ciencias Económicas y Empresariales",
+ "image": "http://apliastigi.com/wp-content/uploads/2014/10/FACULTAD-EMPRESARIALES-SEVILLA.jpg",
+ "address": "Avda. Ramón y Cajal, 41018, Sevilla, España",
+ "position": {
+     "lat": 37.378302,
+     "long": -5.976362
+ },
+ "degrees": ["Grado en Economía", "Grado en Administración y Dirección de Empresas", "Grado en Marketing e Investigación de Mercados"]
+ }, {
+ "id": 14,
+ "city": "Sevilla",
+ "name": "Facultad de Comunicación",
+ "image": "http://fcom.us.es/sites/default/files/comunicacion.jpg?1355165351",
+ "address": "C/ Américo Vespucio, s/n, 41092, Sevilla, España",
+ "position": {
+     "lat": 37.410295,
+     "long": -6.006374
+ },
+ "degrees": ["Grado en Publicidad y Relaciones Públicas", "Grado en Periodismo", "Grado en Comunicación Audiovisual", "Doble Grado en Periodismo y Comunicación Audiovisual"]
+ }, {
+ "id": 14,
+ "city": "Sevilla",
+ "name": "Facultad de Derecho",
+ "image": "http://www.sevilladirecto.com/wp-content/uploads/2016/01/Facultad-derecho-us.jpg",
+ "address": " Avda. La Enramadilla, 18-20, 41018, Sevilla, España",
+ "position": {
+     "lat": 37.377845,
+     "long": -5.978024
+ },
+ "degrees": ["Grado en Ingeniería de la Salud por la Univ. de Málaga y la Univ.de Sevilla", "Grado en Ingeniería Informática-Ingeniería de Computadores", "Grado en Ingeniería Informática-Ingeniería del Software", "Grado en Ingeniería Informática-Tecnologías Informáticas"]
+ }, {
+ "id": 15,
+ "city": "Sevilla",
+ "name": "Facultad de Enfermería, Fisioterapia y Podología",
+ "image": "https://pbs.twimg.com/media/BvAE8a0IYAAfuIA.jpg",
+ "address": "Calle Avenzoar, 6, 41009, Sevilla, España",
+ "position": {
+     "lat": 37.406451,
+     "long": -5.992606
+ },
+ "degrees": ["Grado en Podología", "Grado en Enfermería", "Grado en Fisioterapia"]
+ }, {
+ "id": 16,
+ "city": "Sevilla",
+ "name": "Facultad de Farmacia",
+ "image": "http://comunicacion.us.es/sites/default/files/farmacia.jpg",
+ "address": "C/ Profesor García González, nº 2, 41012, Sevilla, España",
+ "position": {
+     "lat": 37.361056,
+     "long": -5.987761
+ },
+ "degrees": ["Doble Grado en Farmacia y en Óptica y Optometría", "Grado en Óptica y Optometría", "Grado en Farmacia"]
+ }, {
+ "id": 17,
+ "city": "Sevilla",
+ "name": "Facultad de Filología",
+ "image": "http://notasdecorte.org/wp-content/uploads/2016/01/notas-de-corte-universidad-de-sevilla-2016.jpg",
+ "address": " Calle Palos de la Frontera, s/n, 41004, Sevilla, España",
+ "position": {
+     "lat": 37.38038,
+     "long": -5.991723
+ },
+ "degrees": ["Grado en Filología Hispánica", "Grado en Estudios Árabes e Islámicos", "Grado en Estudios Franceses", "Grado en Estudios Ingleses", "Grado en Lengua y Literatura Alemanas", "Grado en Filología Clásica", "Doble Grado en Filología Clásica y Filología Hispánica"]
+ }, {
+ "id": 18,
+ "city": "Sevilla",
+ "name": "Facultad de Filosofía",
+ "image": "http://es.globedia.com/imagenes/noticias/2011/1/31/tendra-readmitir-indemnizar-700-euros-becario_1_573768.jpg",
+ "address": "Calle Camilo José Cela, s/n, 41018 , Sevilla, España",
+ "position": {
+     "lat": 37.379629,
+     "long": -5.975891
+ },
+ "degrees": ["Grado en Estudios de Asia Oriental por la Unv.de Sevilla y la Unv.de Málaga", "Grado en Filosofía"]
+ }, {
+ "id": 19,
+ "city": "Sevilla",
+ "name": "Facultad de Física",
+ "image": "http://apliastigi.com/wp-content/uploads/2014/08/SUBIR1.jpg",
+ "address": "Avda. Reina Mercedes, s/n, 41012, Sevilla, España",
+ "position": {
+     "lat": 37.359342,
+     "long": -5.986552
+ },
+ "degrees": ["Doble Grado en Física y en Ingeniería de Materiales", "Grado en Física", "Grado en Ingeniería de Materiales"]
+ }, {
+ "id": 20,
+ "city": "Sevilla",
+ "name": "Facultad de Matemáticas",
+ "image": "http://www.cadus.es/wp-content/uploads/2015/09/Matematicas-US.jpg",
+ "address": "Calle Tarfia, s/n, 41012, Sevilla, España",
+ "position": {
+     "lat": 37.359298,
+     "long": -5.987935
+ },
+ "degrees": ["Doble Grado en Matemáticas y Estadística", "Grado en Estadística", "Grado en Matemáticas"]
+ }, {
+ "id": 21,
+ "city": "Sevilla",
+ "name": "Facultad de Medicina",
+ "image": "C:/Users/USER/Desktop/medicina.png",
+ "address": "Av. Sánchez Pizjuán, s/n, 41009, Sevilla, España",
+ "position": {
+     "lat": 37.407216,
+     "long": -5.988756
+ },
+ "degrees": ["Grado en Medicina", "Grado en Biomedicina Básica y Experimental"]
+ }, {
+ "id": 22,
+ "city": "Sevilla",
+ "name": "Facultad de Odontología",
+ "image": "http://comunicacion.us.es/sites/default/files/odontologia_0.jpg",
+ "address": "Calle Avicena, s/n, 41009, Sevilla, España",
+ "position": {
+     "lat": 37.405839,
+     "long": -5.993451
+ },
+ "degrees": "Grado en Odontología"
+ }, {
+ "id": 23,
+ "city": "Sevilla",
+ "name": "Facultad de Psicología",
+ "image": "http://aulaexperiencia.us.es/images/facultad.jpg",
+ "address": "Calle Camilo Jose Cela, s/n, 41018, Sevilla, España",
+ "position": {
+     "lat": 37.3789138,
+     "long": -5.9767145
+ },
+ "degrees": "Grado en Psicología"
+ }, {
+ "id": 24,
+ "city": "Sevilla",
+ "name": "Facultad de Química",
+ "image": "http://static.panoramio.com/photos/original/3405283.jpg",
+ "address": "C/ Profesor García González, s/n, 41012, Sevilla, España",
+ "position": {
+     "lat": 37.3601728,
+     "long": -5.9884013
+ },
+ "degrees": "Grado en Química"
+ }, {
+ "id": 25,
+ "city": "Sevilla",
+ "name": "Facultad de Turismo y Finanzas",
+ "image": "http://comunicacion.us.es/sites/default/files/eu_empresariales_0.jpg",
+ "address": "Avda. San Francisco Javier, s/n, 41018, Sevilla, España",
+ "position": {
+     "lat": 37.378901,
+     "long": -5.975897
+ },
+ "degrees": ["Grado en Finanzas y Contabilidad", "Grado en Turismo"]
+ }, {
+ "id": 26,
+ "city": "Paris",
+ "name": "Université de París I Panthéon-Sorbonne",
+ "image": "http://universidades.estudiareneuropa.eu/img/uczelnie/a1205/g/Faculte-de-droit-de-Paris-place-du-Pantheon-p2976.jpg",
+ "address": "Centre Panthéon12, place du Panthéon, 75231, Paris cedex 05, esc. K - 2e étage, France",
+ "position": {
+     "lat": 48.8469373,
+     "long": 2.3422793
+ }
+ }, {
+ "id": 27,
+ "city": "Paris",
+ "name": "Université de París II Panthéon-Assas",
+ "image": "https://www.u-paris2.fr/sites/default/files/photo_image/2016_pantheon_facade.jpg",
+ "address": "92 Rue d'Assas, 75006 Paris, Francia",
+ "position": {
+     "lat": 48.843324,
+     "long": 2.333383
+ }
+ }, {
+ "id": 28,
+ "city": "Paris",
+ "name": "Université Sorbonne Nouvelle París 3",
+ "image": "http://cache.media.enseignementsup-recherche.gouv.fr/image/Universites/88/5/universite-paris-3-sorbonne-nouvelle_276885.jpg",
+ "address": "13 rue de Santeuil, 75231, Paris, Cedex 05, Francia",
+ "position": {
+     "lat": 48.8397119,
+     "long": 2.3531848
+ }
+ }, {
+ "id": 29,
+ "name": "Université Paris Sorbonne (París 4)",
+ "city": "Paris",
+ "image": "http://omelhordeparis.com.br/wp-content/uploads/2014/05/Cours-d%C3%A9t%C3%A9-Sorbonne.jpg",
+ "address": "1 rue Victor Cousin, 75230, Paris, Francia",
+ "position": {
+     "lat": 48.8485544,
+     "long": 2.342124
+ }
+ }, {
+ "id": 30,
+ "city": "Paris",
+ "name": "Université París Descartes (París 5)",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Paris-Descartes_Building.JPG",
+ "address": "12, rue de l’Ecole de Médecine, 75270, Paris Cedex 06, Francia",
+ "position": {
+     "lat": 48.8512792,
+     "long": 2.3399832
+ }
+ }, {
+ "id": 31,
+ "city": "Paris",
+ "name": "Université Pierre et Marie Curie (UPMC)",
+ "image": "http://blog.edulynks.com/wp-content/uploads/2015/10/universite-pierre-et-5167d027658fd.jpg",
+ "address": "4 place Jussieu, 75005, París, Francia",
+ "position": {
+     "lat": 48.8471036,
+     "long": 2.3553103
+ }
+ }, {
+ "id": 32,
+ "city": "Paris",
+ "name": "Université Paris Diderot (París 7)",
+ "image": "https://files1.structurae.de/files/photos/64/paris_13eme_arrondissement/p1210230.jpg",
+ "address": "5 rue Thomas-Mann, 75013, París, Francia",
+ "position": {
+     "lat": 48.8296303,
+     "long": 2.3794976
+ }
+ }, {
+ "id": 33,
+ "city": "Paris",
+ "name": "Université Paris Dauphine",
+ "image": "http://cdn04.masterstudies.com/element_db/16/16746_FS0065-0419.jpg",
+ "address": "Place du Maréchal de Lattre de Tassigny, 75775, París Cedex 16, Francia",
+ "position": {
+     "lat": 48.8701162,
+     "long": 2.2708378
+ }
+ }, {
+ "id": 34,
+ "city": "Aberdeen",
+ "name": "Business School",
+ "image": "http://universidades.estudiareneuropa.eu/img/uczelnie/a1205/g/Faculte-de-droit-de-Paris-place-du-Pantheon-p2976.jpg",
+ "address": "Edward Wright Building, Dunbar Street, Aberdeen, AB24 3QY, Scotland",
+ "position": {
+     "lat": 57.165521,
+     "long": -2.1010604
+ },
+ "degrees": ["MA Accountancy", "MA Finance", "MA Real Estate", "MA Economics", "MA Business Management"]
+ }, {
+ "id": 35,
+ "city": "Aberdeen",
+ "name": "College of Arts and Social Sciences",
+ "image": "http://www.abdn.ac.uk/mediareleases/uploads/media/powisgatesmed.jpg",
+ "address": "Powis Gate, College Bounds, Aberdeen, AB24 3UG, Scotland",
+ "position": {
+     "lat": 57.162968,
+     "long": -2.1029542
+ },
+ "degrees": ["Undergraduate Master of Arts (MA) degree programme", "Bachelor of Laws (LLB)", "Bachelor of Divinity (BD)", "Bachelor of Theology (BTh)", "Bachelor of Music (BMus)"]
+ }, {
+ "id": 36,
+ "city": "Aberdeen",
+ "name": "College of Life Sciences and Medicine",
+ "image": "http://www.abdn.ac.uk/iahs/feature-images/Medschool.jpg",
+ "address": "Polwarth Building, Foresterhill, Aberdeen, AB25 2ZD, Scotland",
+ "position": {
+     "lat": 57.156211,
+     "long": -2.134969
+ },
+ "schools": [{
+     "id": 1,
+     "name": "School of Biological Sciences",
+     "degrees": ["Animal Behaviour", "Behavioural Biology", "Biology", "Conservation Biology", "Ecology", "Environmental and Forest Management", "Environmental Science", "Marine Biology", "Plant and Soil Science", "Zoology", "Biological Sciences"]
+ }, {
+     "id": 2,
+     "name": "School of Medicine, Medical Sciences and Nutrition",
+     "degrees": ["Biochemistry", "Biomedical Science", "Biotechnology", "Dentistry", "Exercise and Health Science", "Genetics, Genetics (Immunology)", "Human Embryology and Developmental Biology", "Immunology", "Immunology and Pharmacology", "Medicine", "Microbiology", "Molecular Biology", "Neuroscience with Psychology", "Pharmacology", "Physiology"]
+ }, {
+     "id": 3,
+     "name": "School of Psychology",
+     "degrees": ["Psychology", "Behavioural Studies"]
+ }]
+ }, {
+ "id": 37,
+ "city": "Aberdeen",
+ "name": "College of Physical Sciences",
+ "image": "http://aberdeen.skepticsinthepub.org/resources/i.aspx?p=/32A1E4FA33CAD88946189573936F23320B859BD12458E6E6/VenueImage/Fraser%20Noble%20Building.jpg",
+ "address": "Fraser Noble Building, King's College, Aberdeen, AB24 3UE, Scotland",
+ "position": {
+     "lat": 57.1655059,
+     "long": -2.1049536
+ },
+ "schools": [{
+     "id": 1,
+     "name": "School of Engineering",
+     "degrees": ["Chemical Engineering", "Civil (and Structural) Engineering", "Electrical and Electronic Engineering", "Mechanical Engineering", "Petroleum Engineering"]
+ }, {
+     "id": 2,
+     "name": "School of Geosciences",
+     "degrees": ["BSc Archaeology", "MA Archaeology", "BSc Geography", "MA Geography", "BSc Geology and Petroleum Geology", "MGeol Geology", "BSc Geology and Physics"]
+ }, {
+     "id": 3,
+     "name": "School of Natural & Computing Sciences",
+     "degrees": ["Biochemistry (C700)", "Chemistry (F100)", "Oil and Gas Chemistry (F111)", "Environmental Chemistry (F142)", "Computing (G402)", "Computing Science (G400)", "Mathematics (G102)", "Applied Mathematics (G122)", "Mathematics (G100)", "Applied Mathematics (G120)", "Physical Sciences (F302)", "Physics (F300)"]
+ }
+ ]
+}
+]

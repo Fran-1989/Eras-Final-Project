@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=lTeS8Xv3ymA&index=10&list=PLhSj3UTs2_yWwhmEyzXsT
 
 https://www.youtube.com/watch?v=lTeS8Xv3ymA&index=10&list=PLhSj3UTs2_yWwhmEyzXsTFnNXfatVMAfT --> Tutorial SASS.
 
+http://stackoverflow.com/questions/36413159/understanding-nested-for-loops-in-javascript?noredirect=1&lq=1 --> Array of arrays.
+
 https://gist.github.com/esfand/9638882 --> Angular jqLite
 
 https://www.youtube.com/watch?v=dQ_CwXmpK_M --> Tutorial Local Storage.
@@ -67,4 +69,6 @@ https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ --> YOUTUBE / Canal de 
 https://www.youtube.com/watch?v=iAS_dkATtVI&list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl&index=13 --> Tutorial para crear filtros propios en Angular Js.
 
 http://codedamn.com/ --> Página con tutoriales, videotutoriales y explicaciones para distintos lenguajes de programación.
+
+https://www.youtube.com/watch?v=kofmnvV9n6A --> Looping Through JSON Array.
 

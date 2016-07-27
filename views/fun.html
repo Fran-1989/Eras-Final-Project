@@ -1,23 +1,3 @@
-<!-- <section ng-controller="Posts">
- <div class="row">
-        <div class="col s12">
-            <div class="col s4 card hoverable" ng-repeat="post in posts">
-                <div class="card-image">
-                    <img src="{{post.image}}">
-                </div>
-                <div class="card-content">
-                    <p></p><strong>{{post.title | uppercase}}</strong><br>
-                    <p>Address:{{post.address}}</p><br>
-                    <p><strong>Date:</strong>{{post.date}}</p><br>
-                    <p><strong>Description:</strong>{{post.Description}}</p>
-                </div>  
-                <div class="card-action">
-                    <a href="#info/{{band.name}}">Some one more</a>
-                </div>
-            </div>
-        </div>
-    </div> 
-</section>-->
 <section ng-controller="Posts">
     <form class="formulario ">
         <div class="row">
@@ -31,7 +11,7 @@
     </form>
     <div class="row">
         <div class="col s12 content-box">
-            <div class="card hoverable card-box" ng-repeat="post in posts | filter: searchText">
+            <div class="col s6 card hoverable" ng-repeat="post in posts | filter: searchText">
                 <div class="card-image waves-effect waves-block waves-light">
                     <img class="activator" src="{{post.image}}">
                 </div>
@@ -50,7 +30,7 @@
                     <button class="waves-effect waves-light btn" ng-click="addAssistant()">Confirm</button>
                     <button class="waves-effect waves-teal btn-flat">Assistants</button>
                     <ul>
-                        <li id="asistentes" ng-repeat="asistente in asistentes">{{asistente.name}} - {{asistente.nationality}}</li>
+                        <li ng-controller="Assistants" id="asistentes" ng-repeat="asistente in asistentes">{{asistente.name}} - {{asistente.nationality}}</li>
                     </ul>
                 </div>
             </div>
