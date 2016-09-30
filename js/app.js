@@ -1,46 +1,39 @@
 'use strict';
 //inicio el modulo principal de la App inyectando los módulos de dependencia.
 var app = angular.module('Erasmore', [
-        'ngRoute',
-        'LocalStorageModule',
-        'Erasmore.controllers'
-    ])
-    //hago el routing de las diferentes vistas de la App.
-    .config(['$routeProvider', function($routeProvider) {
-        $routeProvider
-            .when('/', {
-                templateUrl: 'views/home.html',
-                controller: 'Faculties'
-            })
-            .when('/intro', {
-                templateUrl: 'views/intro.html',
-                controller: 'Faculties'
-            })
-            .when('/where', {
-                templateUrl: 'views/where.html',
-                controller: 'Faculties'
-            })
-            .when('/fun', {
-                templateUrl: 'views/fun.html',
-                controller: 'Posts'
-            })
-            .when('/contact', {
-                templateUrl: 'views/contact.html',
-                controller: 'Posts'
-            })
-            .otherwise({
-                redirectTo: '/'
-            })
-    }]);
+    'ngRoute',
+    'Erasmore.filters',
+    'ngStorage',
+    'Erasmore.controllers'
+])
 
 
-$(document).ready(function() {
-    $(".button-collapse").sideNav();
-});
+//hago el routing de las diferentes vistas de la App.
+.config(['$routeProvider', function($routeProvider) {
+    $routeProvider
+        .when('/', {
+            templateUrl: 'views/home.html',
+            controller: 'Faculties'
+        })
+        .when('/intro', {
+            templateUrl: 'views/intro.html',
+            controller: 'Faculties'
+        })
+        .when('/where', {
+            templateUrl: 'views/where.html',
+            controller: 'Faculties'
+        })
+        .when('/fun', {
+            templateUrl: 'views/fun.html',
+            controller: 'Posts'
+        })
+        .otherwise({
+            redirectTo: '/'
+        })
+}]);
 
-$(document).ready(function() {
-    $('select').material_select();
-});
+
+
 
 
 /*  $scope.facultades = function () {
@@ -48,11 +41,7 @@ $(document).ready(function() {
                 var facultades = 
             }
         }
-
-
-
-
-
+        
 app.directive('facSevilla', function() {
     function linkFunction($scope, elem, attrs) {
       if $scope.universidades.name === "Universidad de Sevilla" {
@@ -91,4 +80,4 @@ app.controller('Posts', ['$scope', '$http', function($scope, $http, localStorage
             $scope.random = Math.floor(Math.random() * $scope.asistentes.length);
             $scope.list = $scope.getElementByID('asistentes');
             list.appendChild($scope.asistentes[random]);
-*/    
+*/
